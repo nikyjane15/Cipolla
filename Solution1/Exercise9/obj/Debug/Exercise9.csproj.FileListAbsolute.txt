@@ -1,0 +1,5 @@
+C:\Users\niky\documents\visual studio 2015\Projects\Solution1\Exercise9\bin\Debug\Exercise9.exe.config
+C:\Users\niky\documents\visual studio 2015\Projects\Solution1\Exercise9\bin\Debug\Exercise9.exe
+C:\Users\niky\documents\visual studio 2015\Projects\Solution1\Exercise9\bin\Debug\Exercise9.pdb
+C:\Users\niky\documents\visual studio 2015\Projects\Solution1\Exercise9\obj\Debug\Exercise9.exe
+C:\Users\niky\documents\visual studio 2015\Projects\Solution1\Exercise9\obj\Debug\Exercise9.pdb
