@@ -1,5 +1,0 @@
-C:\Users\niky\Documents\Visual Studio 2015\Projects\Solution1\Exercise 3\bin\Debug\Exercise 3.exe.config
-C:\Users\niky\Documents\Visual Studio 2015\Projects\Solution1\Exercise 3\bin\Debug\Exercise 3.exe
-C:\Users\niky\Documents\Visual Studio 2015\Projects\Solution1\Exercise 3\bin\Debug\Exercise 3.pdb
-C:\Users\niky\Documents\Visual Studio 2015\Projects\Solution1\Exercise 3\obj\Debug\Exercise 3.exe
-C:\Users\niky\Documents\Visual Studio 2015\Projects\Solution1\Exercise 3\obj\Debug\Exercise 3.pdb
